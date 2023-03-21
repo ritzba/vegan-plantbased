@@ -14,6 +14,7 @@ For project 3, your goal is two-fold:
 Pushshift's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`](https://www.reddit.com/r/boardgames), all I have to do is use the following url: https://api.pushshift.io/reddit/search/submission?subreddit=boardgames
 
 Updated (3/2023) documentation for the FastAPI [here](https://api.pushshift.io/redoc) 
+
 ---
 ## Checkpoints and Advice
 
